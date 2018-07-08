@@ -1,0 +1,24 @@
+{
+  "products":[
+  {"id":1,"name":"Tapir, brazilian","category":"Puce"},
+  {"id":2,"name":"Francolin, swainson's","category":"Indigo"},
+  {"id":3,"name":"Polecat, african","category":"Violet"},
+  {"id":4,"name":"Asian elephant","category":"Red"},
+  {"id":5,"name":"White-faced whistling duck","category":"Mauv"},
+  {"id":6,"name":"Northern phalarope","category":"Green"},
+  {"id":7,"name":"Starling, greater blue-eared","category":"Blue"},
+  {"id":8,"name":"Spoonbill, white","category":"Khaki"},
+  {"id":9,"name":"Zebra, common","category":"Aquamarine"},
+  {"id":10,"name":"Genet, small-spotted","category":"Purple"},
+  {"id":11,"name":"Eastern cottontail rabbit","category":"Orange"},
+  {"id":12,"name":"Marine iguana","category":"Aquamarine"},
+  {"id":13,"name":"Feathertail glider","category":"Red"},
+  {"id":14,"name":"Canadian tiger swallowtail butterfly","category":"Mauv"},
+  {"id":15,"name":"Red-cheeked cordon bleu","category":"Pink"},
+  {"id":16,"name":"Bahama pintail","category":"Maroon"},
+  {"id":17,"name":"Platypus","category":"Crimson"},
+  {"id":18,"name":"Sally lightfoot crab","category":"Purple"},
+  {"id":19,"name":"Blue crane","category":"Green"},
+  {"id":20,"name":"Bush dog","category":"Orange"}
+  ]
+}
